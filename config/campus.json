@@ -1,0 +1,13 @@
+{
+    "routeName": "RouteName",
+    "stops": [
+        {"name": "gate", "lat": 12.9716, "lng": 77.5946},
+        {"name": "library", "lat": 12.9734, "lng": 77.5946},
+        {"name": "hostels", "lat": 12.9734, "lng": 77.5970},
+        {"name": "labs", "lat": 12.9716, "lng": 77.5970}
+    ],
+    "buggies": [
+        {"id": "buggy-1", "name": "Buggy 01", "capacity": 6},
+        {"id": "buggy-2", "name": "Buggy 02", "capacity": 8}
+    ]
+}
